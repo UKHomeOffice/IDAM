@@ -13,12 +13,18 @@
 
 ### Architecture
 
-  
-    
+
+
  ![Preview](https://rawgit.com/UKHomeOffice/IDAM/master/IDAM.svg)
 
+    The above diagram shows that there are three components in identity management :
 
-
+        - resource to be accessed or consumed
+        - a consumer of the resource (user or application)
+        - components  that  that manage / regulate consume access to resource. in our case these consist of
+          - Active Directory  - id source
+          - Keycloak - access broker
+          - Office 365 - Auth server 
 
 ### type of access
 
