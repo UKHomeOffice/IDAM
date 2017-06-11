@@ -13,7 +13,10 @@
 
 ### Architecture
 
-    see diagram below
+  
+    
+ ![Preview](https://rawgit.com/UKHomeOffice/IDAM/master/IDAM.svg)
+
 
 
 
